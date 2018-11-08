@@ -3,10 +3,10 @@
 ## 个人资料
 
 *   姓名 禹璐
-*   年龄 28
+*   年龄 31
 *   性别 男
 *   电话 18688716376
-*  Email bb.simon.yu@gmail.com
+*  Email ccl1115@gmail.com
 * Github https://github.com/ccl1115
 
 ## 教育
@@ -17,7 +17,18 @@
 
 ## 工作及项目
 
-#### 蓝莓 `2014.05 - 2015.09`
+#### 语玩 贵阳语玩科技有限公司 `2017.07 - 至今`
+* 语玩Android客户端
+    * 业务: 狼人杀游戏, 聊天, 个性装扮
+* 语玩新业务
+    * 管理后台(PHP)/内容运营后台(NodeJS)/审核后台(Java/NodeJS)
+    * 运营活动系统(Vue/NodeJS)
+
+#### 时光相册 字节跳动科技有限公司 `2015.10 - 2017.04`
+* 时光相册Android客户端
+* 金立手机相册Android客户端
+
+#### 蓝莓 北京优趣科技有限公司 `2014.05 - 2015.09`
 * 蓝莓Android客户端
 * 业务开发：
      * 聊天模块：语音，图片，匿名实名
@@ -28,10 +39,8 @@
      * 外部依赖库完全接口化，使得推送服务（百度推送，腾讯信鸽），统计（MTA，友盟），网络库等模块可以灵活切换
      * 安全并且严格的图片加载，极低的OOM错误率
      * 使用维纳斯长链接网络库，保证极高的连通率，解决DNS污染、劫持，网络链接超时，套接字无法建立等问题
-     * 谨慎地网络数据处理，全局性地保证Server回吐任何数据不会造成App出现Crash
      * Pub/Sub消息系统，减少模块间的依赖，高效的模块间通讯
      * 配置系统：通过一个外部配置App直接对App进行配置，例如修改服务端Host等
-     * 内存溢出监测：使用开源的LeakCanary监测Activity，Fragment等组建的内存溢出
      * 自定义控件：
          * AdvancedListView 可复用的支持下拉刷新、加载更多的ListView
          * AsyncImageView 异步加载图片的ImageView，支持url，file，resources等方式，包含二级缓存（内存Cache，文件LRUCache）
@@ -44,7 +53,7 @@
      * Gitflow开发模式，保证更好地响应需求变更，高效地进行合并、回滚、预先开发以及紧急修复。
 * iOS版本：Feeds模块开发
 
-#### 百度 `2013.05 - 2014.05`
+#### 百度贴吧 `2013.05 - 2014.05`
 * 百度贴吧Android客户端
 * 工作内容：
     * 业务开发：语音聊天版本，我的帖子，可复用标题栏等
@@ -65,21 +74,17 @@
 * Java
 * Python
 * JavaScript
-* Golang
-* Objective-C
 
 #### 平台
 * 客户端：Android/iOS
-* 前段框架：Angular/Bootstrap
+* 前段框架：Vue
 * 后台框架：
     * NodeJS: Express
-    * Golang: Martini, Gorilla
     * Python: Django, Flask
 * UI Design/Prototype
 
 #### 工具
 * Intellij IDEA/Android Studio/Eclipse (Android development)
-* Xcode (iOS development)
 * Vim (Front-end/Back-end development)
 * Latex, Markdown (Document writing)
 * Shell script
