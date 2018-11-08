@@ -1,0 +1,8 @@
+title: 个人简历
+description: 
+google_analytics: UA-68933244-1
+show_downloads: true
+theme: jekyll-theme-modernist
+
+gems:
+  - jekyll-mentions
