@@ -70,9 +70,9 @@
 
 #### 平台
 * 客户端: Android应用开发
-* 前段:
+* 前端:
    * ES6, Promise, Async/Await
-   * Vue, Vuex, VueRouter, VueResources
+   * Vue, Vuex, VueRouter
    * Webpack, Gulp
 * 微信
    * 小程序
