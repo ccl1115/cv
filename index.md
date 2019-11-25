@@ -16,12 +16,21 @@
 
 ## 工作及项目
 
-#### 语玩 贵阳语玩科技有限公司 `2017.07 - 至今`
+#### 乐诚科技有限公司 `2019.05 -2019.10`
+* 乐诚监狱智能终端机
+    * 银行支付接口
+    * 终端Android客户端开发
+
+#### 语玩 贵阳语玩科技有限公司 `2017.07 - 2018.12`
 * 语玩Android客户端
     * 业务: 狼人杀游戏, 聊天, 个性装扮
-* 语玩新业务
+* 语玩新业务 负责人
     * 管理后台(PHP)/内容运营后台(NodeJS)/审核后台(Java/NodeJS)
+    * 客户端嵌入网页开发
     * 运营活动系统(Vue/NodeJS)
+    * ElasticSearch 系统日志,性能监
+    * 微信小程序
+    * 微信公众号后台服务接入
 
 #### 时光相册 字节跳动科技有限公司 `2015.10 - 2017.04`
 * 时光相册Android客户端
@@ -34,23 +43,9 @@
      * 个人中心：个人资料，发表的帖子，赞列表
      * 发现模块：搜索，附近的人，老乡动态，打工圈
      * Feeds：朋友，附近，在职三个Feeds流
-* 核心技术：
-     * 外部依赖库完全接口化，使得推送服务（百度推送，腾讯信鸽），统计（MTA，友盟），网络库等模块可以灵活切换
-     * 安全并且严格的图片加载，极低的OOM错误率
-     * 使用维纳斯长链接网络库，保证极高的连通率，解决DNS污染、劫持，网络链接超时，套接字无法建立等问题
-     * Pub/Sub消息系统，减少模块间的依赖，高效的模块间通讯
-     * 配置系统：通过一个外部配置App直接对App进行配置，例如修改服务端Host等
-     * 自定义控件：
-         * AdvancedListView 可复用的支持下拉刷新、加载更多的ListView
-         * AsyncImageView 异步加载图片的ImageView，支持url，file，resources等方式，包含二级缓存（内存Cache，文件LRUCache）
-         * RoundedButton 不使用额外图片的圆角按钮，支持自定义背景色和圆角弧度
-         * TopBar 接口化的自定义标题栏
 * 项目管理
      * 早期使用Maven项目管理，后期使用Gradle系统
      * 使用持续集成系统
-     * 使用[OSChina](http://www.oschina.net)提供的免费Git服务和Issue系统，自己搭建Git服务（[Stash](https://www.atlassian.com/software/bitbucket/server)）作为备份。
-     * Gitflow开发模式，保证更好地响应需求变更，高效地进行合并、回滚、预先开发以及紧急修复。
-* iOS版本：Feeds模块开发
 
 #### 百度贴吧 `2013.05 - 2014.05`
 * 百度贴吧Android客户端
@@ -75,16 +70,9 @@
 * JavaScript
 
 #### 平台
-* 客户端：Android/iOS
-* 前段框架：Vue
+* 客户端：Android 五年经验，一线互联网公司，千万日活App
+* 前段框架：Vue，
 * 后台框架：
-    * NodeJS: Express
+    * NodeJS: Express, Koa
     * Python: Django, Flask
 * UI Design/Prototype
-
-#### 工具
-* Intellij IDEA/Android Studio/Eclipse (Android development)
-* Vim (Front-end/Back-end development)
-* Latex, Markdown (Document writing)
-* Shell script
-* Adobe Illustrator/Photoshop
