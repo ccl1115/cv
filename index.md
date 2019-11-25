@@ -5,23 +5,25 @@
 *   姓名 禹璐
 *   年龄 31
 *   性别 男
-*  Email ccl1115@gmail.com
-* Github https://github.com/ccl1115
+*   Email ccl1115@gmail.com
+*   Github https://github.com/ccl1115
+
+## 自我介绍
+5年一线互联网App开发经验, 1年半前端开发经验. 熟悉Linux系统环境, 对NodeJS平台的后台开发有所了解, 对Docker相关容器技术有所了解.
 
 ## 教育
 
 #### 大连理工大学 `2007-2011`
 * 软件学院 网络工程 本科
 
-
 ## 工作及项目
 
 #### 乐诚科技有限公司 `2019.05 -2019.10`
 * 乐诚监狱智能终端机
-    * 银行支付接口
+    * 银行支付接口(PHP)
     * 终端Android客户端开发
 
-#### 语玩 贵阳语玩科技有限公司 `2017.07 - 2018.12`
+#### 贵阳语玩科技有限公司 `2017.07 - 2018.12`
 * 语玩Android客户端
     * 业务: 狼人杀游戏, 聊天, 个性装扮
 * 语玩新业务 负责人
@@ -32,20 +34,18 @@
     * 微信小程序
     * 微信公众号后台服务接入
 
-#### 时光相册 字节跳动科技有限公司 `2015.10 - 2017.04`
+#### 字节跳动科技有限公司 `2015.10 - 2017.04`
 * 时光相册Android客户端
 * 金立手机相册Android客户端
 
-#### 蓝莓 北京优趣科技有限公司 `2014.05 - 2015.09`
+#### 北京优趣科技有限公司 `2014.05 - 2015.09`
+* 技术合伙人
 * 蓝莓Android客户端
 * 业务开发：
      * 聊天模块：语音，图片，匿名实名
      * 个人中心：个人资料，发表的帖子，赞列表
      * 发现模块：搜索，附近的人，老乡动态，打工圈
      * Feeds：朋友，附近，在职三个Feeds流
-* 项目管理
-     * 早期使用Maven项目管理，后期使用Gradle系统
-     * 使用持续集成系统
 
 #### 百度贴吧 `2013.05 - 2014.05`
 * 百度贴吧Android客户端
@@ -65,14 +65,19 @@
 ## 技能
 
 #### 语言
-* Java
-* Python
+* Java/Kotlin
 * JavaScript
 
 #### 平台
-* 客户端：Android 五年经验，一线互联网公司，千万日活App
-* 前段框架：Vue，
-* 后台框架：
-    * NodeJS: Express, Koa
-    * Python: Django, Flask
-* UI Design/Prototype
+* 客户端: Android应用开发
+* 前段:
+   * ES6, Promise, Async/Await
+   * Vue, Vuex, VueRouter, VueResources
+   * Webpack, Gulp
+* 微信
+   * 小程序
+   * 公众平台
+* 后台：
+    * NodeJS: Express, Koa, PM2
+    * Redis, MongoDB
+    * Docker
