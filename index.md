@@ -9,7 +9,8 @@
 *   Github https://github.com/ccl1115
 
 ## 自我介绍
-5年一线互联网App开发经验, 1年半前端开发经验. 熟悉Linux系统环境, 对NodeJS平台的后台开发有所了解, 对Docker相关容器技术有所了解.
+* 5年一线互联网Android App开发经验, 1年半前端开发经验, 熟悉现代的前端开发环境.
+* 熟悉Linux系统环境, 对NodeJS平台的后台开发有所了解, 对Docker相关容器技术有所了解.
 
 ## 教育
 
